@@ -753,19 +753,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nunes\\.nuget\\packages\\": {}
+    "C:\\Users\\LUANGABRIELILIANOSUL\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nunes\\Downloads\\revisao\\revisao\\revisao.csproj",
+      "projectUniqueName": "c:\\revisaoC\\revisao.csproj",
       "projectName": "revisao",
-      "projectPath": "C:\\Users\\nunes\\Downloads\\revisao\\revisao\\revisao.csproj",
-      "packagesPath": "C:\\Users\\nunes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nunes\\Downloads\\revisao\\revisao\\obj\\",
+      "projectPath": "c:\\revisaoC\\revisao.csproj",
+      "packagesPath": "C:\\Users\\LUANGABRIELILIANOSUL\\.nuget\\packages\\",
+      "outputPath": "c:\\revisaoC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\nunes\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\LUANGABRIELILIANOSUL\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -788,8 +788,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "10.0.100"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -816,7 +815,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
