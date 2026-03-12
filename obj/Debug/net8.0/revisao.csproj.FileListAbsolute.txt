@@ -1,0 +1,6 @@
+C:\revisaoC\obj\Debug\net8.0\revisao.csproj.AssemblyReference.cache
+C:\revisaoC\obj\Debug\net8.0\revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\revisaoC\obj\Debug\net8.0\revisao.AssemblyInfoInputs.cache
+C:\revisaoC\obj\Debug\net8.0\revisao.AssemblyInfo.cs
+C:\revisaoC\obj\Debug\net8.0\revisao.csproj.CoreCompileInputs.cache
+C:\revisaoC\obj\Debug\net8.0\revisao.sourcelink.json
